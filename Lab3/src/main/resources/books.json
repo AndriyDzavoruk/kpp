@@ -1,0 +1,21 @@
+[
+  {
+    "title": "Pride and Prejudice",
+    "author": {
+      "name": "Jane",
+      "surname": "Austen",
+      "nationality": "British"
+    }
+  },
+  {
+    "title": "1984",
+    "author": {
+      "name": "George",
+      "surname": "Orwell",
+      "nationality": "British"
+    }
+  },
+  {
+    "title": "Untitled"
+  }
+]

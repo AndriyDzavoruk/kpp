@@ -1,0 +1,12 @@
+- author_name: Jane
+  author_nationality: British
+  year: 1813
+  author_surname: Austen
+  title: Pride and Prejudice
+- author_name: George
+  author_nationality: British
+  year: 1949
+  author_surname: Orwell
+  title: '1984'
+- year: 2020
+  title: Untitled
